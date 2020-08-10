@@ -1,0 +1,66 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{softmatter}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ddfb0ce1e41adc8e28e68d2e3bb7186e}{%
+           family={Selinger},
+           familyi={S\bibinitperiod},
+           given={Jonathan\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{ddfb0ce1e41adc8e28e68d2e3bb7186e}
+      \strng{fullhash}{ddfb0ce1e41adc8e28e68d2e3bb7186e}
+      \strng{bibnamehash}{ddfb0ce1e41adc8e28e68d2e3bb7186e}
+      \strng{authorbibnamehash}{ddfb0ce1e41adc8e28e68d2e3bb7186e}
+      \strng{authornamehash}{ddfb0ce1e41adc8e28e68d2e3bb7186e}
+      \strng{authorfullhash}{ddfb0ce1e41adc8e28e68d2e3bb7186e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to the Theory of Soft Matter Jonathan V. Selinger From Ideal Gases to Liquid Crystals}
+      \warn{\item Entry 'softmatter' (citation.bib): Invalid format 'April 2015' of date field 'date' - ignoring}
+    \endentry
+    \entry{lab}{manual}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labeltitlesource}{title}
+      \field{title}{NTULearn Lab Manual for Experiment 9: Monte Carlo Simulations of Phase Transitons}
+      \field{year}{}
+    \endentry
+    \entry{wiki}{online}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labeltitlesource}{title}
+      \field{title}{Monte Carlo Method}
+      \field{year}{}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Monte_Carlo_method
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Monte_Carlo_method
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

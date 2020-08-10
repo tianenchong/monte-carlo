@@ -1,0 +1,17 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'montecarlo.blg'
+[38] biber-MSWIN64:313> INFO - === 
+[77] Biber.pm:371> INFO - Reading 'montecarlo.bcf'
+[207] Biber.pm:857> INFO - Found 3 citekeys in bib section 0
+[221] Biber.pm:3976> INFO - Processing section 0
+[235] Biber.pm:4136> INFO - Looking for bibtex format file 'citation.bib' for section 0
+[240] bibtex.pm:1500> INFO - LaTeX decoding ...
+[245] bibtex.pm:1316> INFO - Found BibTeX data source 'citation.bib'
+[251] Utils.pm:193> WARN - Entry 'softmatter' (citation.bib): Invalid format 'April 2015' of date field 'date' - ignoring
+[266] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[266] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[266] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[266] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[284] bbl.pm:617> INFO - Writing 'montecarlo.bbl' with encoding 'UTF-8'
+[286] bbl.pm:720> INFO - Output to montecarlo.bbl
+[287] Biber.pm:110> INFO - WARNINGS: 1
